@@ -1,0 +1,6 @@
+{
+  "name": "james-backend",
+  "version": "1.0.0",
+  "description": "Backend API for James, the Riverside & Crown property assistant",
+  "private": true
+}
